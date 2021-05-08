@@ -7,7 +7,7 @@
   ],
   "profile": { "name": "typicode" },
   "settings": 
-     {
+    [ {
         "name": "Mr. Ruth Kub",
         "email": "Neil80@hotmail.com",
         "avatar": null,
@@ -31,6 +31,6 @@
         "institute": null,
         "identityProofName": null,
         "identityProofDocument": null
-    }
+    }]
     
 }
