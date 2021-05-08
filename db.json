@@ -5,5 +5,32 @@
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 }
   ],
-  "profile": { "name": "typicode" }
+  "profile": { "name": "typicode" },
+  "settings": 
+    {
+    "data": {
+        "name": "Mr. Ruth Kub",
+        "email": "Neil80@hotmail.com",
+        "avatar": null,
+        "phone": null,
+        "highSchoolName": null,
+        "highSchoolCertificate": null,
+        "highSchoolStartYear": null,
+        "highSchoolEndYear": null,
+        "degreeCollegeName": null,
+        "degreeCollegeCertificate": null,
+        "degreeCollegeStartYear": null,
+        "degreeCollegeEndYear": null,
+        "pgCollegeName": null,
+        "pgCollegeCertificate": null,
+        "pgCollegeStartYear": null,
+        "pgCollegeEndYear": null,
+        "country": null,
+        "state": null,
+        "city": null,
+        "pincode": null,
+        "institute": null,
+        "identityProofName": null,
+        "identityProofDocument": null
+    }
 }
